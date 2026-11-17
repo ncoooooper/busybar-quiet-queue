@@ -4,6 +4,6 @@
   "name": "Quiet Queue",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Quiet Queue",
+  "description": "Give visitors a numbered web ticket and accept the next request from your BUSY Bar.",
   "author": "ncoooooper"
 }

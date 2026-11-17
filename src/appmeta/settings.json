@@ -1,0 +1,12 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "bridge": {
+      "type": "string",
+      "label": "Operator server URL",
+      "default": "",
+      "max_length": 150
+    }
+  }
+}
