@@ -14,5 +14,25 @@
   "rendered": [
     "media/front.png",
     "media/back.png"
-  ]
+  ],
+  "sha256": "021364c8798363ff303c5d0bf5a9911b9be79f82c86c47588a247c12d05610b5",
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "Recorded companion readings",
+    "keys": [
+      [
+        "up"
+      ],
+      [
+        "down",
+        "ok"
+      ]
+    ],
+    "frames": 128,
+    "distinct_by_flow": [
+      7,
+      13
+    ],
+    "exit": "App io.btype.quietqueue exited: finished; heap peak 87.5 of 128 KiB"
+  }
 }
