@@ -2,7 +2,7 @@
   "format_version": 1,
   "id": "io.ncoooooper.quietqueue",
   "name": "Quiet Queue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "api_version": "27.12.0",
   "description": "Give visitors a numbered web ticket and accept the next request from your BUSY Bar.",
   "author": "ncoooooper"
