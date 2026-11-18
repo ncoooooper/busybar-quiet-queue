@@ -2,5 +2,5 @@
   "category": "social",
   "short_description": "Give visitors a numbered web ticket and accept the next request from your BUSY Bar.",
   "description": "Give visitors a numbered web ticket and accept the next request from your BUSY Bar. Guests join from a small web form. Ticket numbers appear on the front while the operator sees the optional topic on the back. Click accepts the displayed ticket, Start refreshes, and the wheel switches to waiting count. The queue refreshes every ten seconds.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }

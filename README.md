@@ -4,6 +4,20 @@ Give visitors a numbered web ticket and accept the next request from your BUSY B
 
 The visitor needs only a web form and a number. At the desk, you can call that number from the front display and read the visitor’s topic on the operator side.
 
+## Screen transitions
+
+Read the head of the queue as a visitor joins and the next one is called.
+
+![Quiet Queue front display. Read the head of the queue as a visitor joins and the next one is called.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Quiet Queue rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Take a place in line
 
 1. Open the guest form, enter a short optional topic and submit. Note the ticket number it returns. A guest who resubmits the same form gets the original ticket.
@@ -40,6 +54,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
